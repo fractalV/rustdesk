@@ -175,3 +175,5 @@ Please ensure that you are running these commands from the root of the RustDesk 
 ## [Public Servers](#public-servers)
 
 RustDesk is supported by a free EU server, graciously provided by [Codext GmbH](https://codext.link/rustdesk?utm_source=github)
+#   a l t d e s k   d e a l e r   e d i t i o n  
+ 
